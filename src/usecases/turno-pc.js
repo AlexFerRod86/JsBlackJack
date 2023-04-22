@@ -45,7 +45,7 @@ import { pedirCarta,valorCarta,crearCartaHTML} from "./";
       } else {
           alert('Computadora Gana')
       }
-  }, 1 );
+  }, 500);
 }
 
 
